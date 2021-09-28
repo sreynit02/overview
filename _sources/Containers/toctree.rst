@@ -8,4 +8,5 @@ Containers
    reveal.rst
    tabbed.rst
    dynamic.rst
+   dynamic_supp.rst
    
